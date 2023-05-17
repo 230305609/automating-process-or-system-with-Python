@@ -3,9 +3,13 @@ process or system automation code with Python/código de automação de processo
 
 1. Criar um arquivo com formato .ipynb
 2. Importando Bibliotecas
+
 • pyautogui  --- !pip install pyautogui
+
 • time       --- !pip install time
+
 • pyperclip  --- !pip install pyperclip
+
 3. Baixar a Base de Dados
 4. Importar a Base de Dados
 - imp pandas as pd
