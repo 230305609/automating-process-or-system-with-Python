@@ -1,5 +1,5 @@
-# automating-process-or-system-with-Python
-automating process or system with Python/automatizando processo ou sistema com Python/automatización de procesos o sistemas con Python
+# process or system automation code with Python
+process or system automation code with Python/código de automação de processo ou sistema com Python/código de automatización de procesos o sistemas con Python
 
 1. Criar um arquivo com formato .ipynb
 2. Importando Bibliotecas
